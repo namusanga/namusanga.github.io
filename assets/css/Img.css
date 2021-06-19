@@ -66,12 +66,14 @@
     text-decoration: none;
     position: absolute;
     left: 100px;
-    color: aqua;
+    color: white !important;
     bottom: 100px;
     background-color: rgba(63, 63, 148, 0.753);
-    border-radius: 0.5rem;
+    border-radius: 0.1rem;
     padding: 3px 15px 3px 15px;
     border: none;
+
+    font-family: fontt;
     }
 a .lasttext{
     font-weight: bold;
@@ -126,7 +128,7 @@ a .lasttext{
     .top{
         font-size: 3.5rem;
     }
-    .toptext{
+    .toptext{ 
         font-size: 2rem;
     }
     .meddletext{
